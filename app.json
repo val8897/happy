@@ -7,15 +7,15 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#d81e06",
-    "navigationBarTitleText": "这个很有意思",
-    "navigationBarTextStyle":"white",
+    "navigationBarBackgroundColor": "#fdca47",
+    "navigationBarTitleText": "做人呢最重要就是开心",
+    "navigationBarTextStyle":"black",
     "enablePullDownRefresh":true
   },
   "tabBar": {
     "color": "#626567",
-    "selectedColor": "#2A8CE5",
-    "backgroundColor": "#FBFBFB",
+    "selectedColor": "#fdca47",
+    "backgroundColor": "#fefefe",
     "borderStyle": "white",
     "list": [{
       "pagePath": "pages/index/index",
